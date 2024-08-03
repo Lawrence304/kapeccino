@@ -1,6 +1,5 @@
 {
-  "facebookAccount": "https://www.facebook.com/profile.php?id=61554569411095"
-    "email": "",
+  "facebookAccount": {
     "password": "",
     "2FASecret": "",
     "i_user": "",
